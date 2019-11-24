@@ -1,0 +1,2450 @@
+1.6744 	WARNING 	Import Error: No module named '_version'. Using event module for keyboard component.
+11.7183 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f5d77aea610>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f5d7798df10>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.7185 	EXP 	window1: recordFrameIntervals = False
+11.8828 	EXP 	window1: recordFrameIntervals = True
+12.0673 	EXP 	window1: recordFrameIntervals = False
+12.1506 	EXP 	Created Presentacion = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Presentacion', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+12.1724 	EXP 	Created Juego = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Juego', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+12.2587 	EXP 	Created image_6 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='./2BackColores.png', interpolate=True, mask=None, maskParams=None, name='image_6', opacity=1.0, ori=0.0, pos=array([ 0. , -0.5]), size=array([0.7, 0.7]), texRes=128, units='norm', win=Window(...))
+12.2606 	EXP 	Created polygon = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1.0, name='polygon', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='norm', vertices=ndarray(...), win=Window(...))
+12.2804 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+12.2825 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+12.2871 	EXP 	Created pregunta_cual_es_el_mas_barato = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='pregunta_cual_es_el_mas_barato', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Cual es el más CARO?\nflechita IZQ o DER', units='norm', win=Window(...), wrapWidth=1)
+12.2888 	EXP 	Created short_stim1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='short_stim1', opacity=1.0, ori=0.0, pos=array([0. , 0.5]), size=array([0.3, 0.3]), texRes=128, units='norm', win=Window(...))
+12.2907 	EXP 	Created hola = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='hola', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+12.2923 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+12.2945 	EXP 	Created tiempo_para_pensar = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='tiempo_para_pensar', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Tiempo Para Pensar', units='norm', win=Window(...), wrapWidth=1)
+12.2971 	EXP 	Created cual_es_la_mas_barata = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='cual_es_la_mas_barata', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Cual es el más CARO?\nflechita IZQ o DER', units='norm', win=Window(...), wrapWidth=1)
+12.2986 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_4', opacity=1.0, ori=0.0, pos=array([0. , 0.5]), size=array([0.3, 0.3]), texRes=128, units='norm', win=Window(...))
+12.3078 	EXP 	Created holi = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='holi', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+12.3093 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+12.3104 	EXP 	Created polygon_2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace=None, contrast=1.0, depth=0.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1.0, name='polygon_2', opacity=1.0, ori=array(1.), pos=array([0., 0.]), size=array([1., 1.]), units='norm', vertices=ndarray(...), win=Window(...))
+12.3128 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Cual es el más CARO?\nflechita IZQ o DER', units='norm', win=Window(...), wrapWidth=1)
+12.3146 	EXP 	Created image_5 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_5', opacity=1.0, ori=0.0, pos=array([0. , 0.5]), size=array([0.3, 0.3]), texRes=128, units='norm', win=Window(...))
+12.3194 	EXP 	Created gracias = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='gracias', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+12.3235 	EXP 	Created pregunta1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='pregunta1', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+12.3269 	EXP 	Created pregunta3_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='pregunta3_3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+12.3626 	EXP 	Created productoCon3RANGOSabc_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='./rangos.jpg', interpolate=True, mask=None, maskParams=None, name='productoCon3RANGOSabc_3', opacity=1.0, ori=0.0, pos=array([0. , 0.2]), size=array([0.39 , 1.235]), texRes=128, units='norm', win=Window(...))
+12.3673 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='consolas', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+12.3742 	EXP 	Imported global_settings.csv as conditions, 1 conditions, 7 params
+12.3744 	EXP 	Created sequence: sequential, trialTypes=1, nReps=1, seed=None
+12.3748 	EXP 	New trial (rep=0, index=0): OrderedDict([('changuito_time_to_show', 8), ('time_to_think', 14), ('time_to_play', 14), ('total_items', 999), ('nback_stimulus_time', 0.5), ('nback_training', '0:10'), ('time_to_show_tiny_stimulus', 3)])
+12.3996 	EXP 	Presentacion: pos = array([0.5, 0. ])
+12.3996 	EXP 	Presentacion: text = 'Hola! Apareceran dos productos de supermercado durante 8 segundos. Vas a tener que responder cúal de los dos productos es más CARO. \n\nCuando aparezca la pregunta “cuál es más CARO?”, presioná la flechita izquierda o derecha, indicando qué producto es más CARO. \n\nSolo se puede responder cuando aparece la pregunta.\n\n- Barra espaciadora para continuar - '
+12.3996 	EXP 	Presentacion: autoDraw = True
+39.7239 	DATA 	Keypress: space
+39.7395 	EXP 	Presentacion: autoDraw = False
+39.7395 	EXP 	Presentacion: autoDraw = False
+39.7395 	EXP 	Juego: pos = array([0.5, 0.4])
+39.7395 	EXP 	Juego: autoDraw = True
+39.7395 	EXP 	image_6: autoDraw = True
+67.8303 	DATA 	Keypress: space
+67.8685 	EXP 	Imported ColourTest2.xlsx as conditions, 10 conditions, 2 params
+67.8689 	EXP 	Created sequence: sequential, trialTypes=10, nReps=1, seed=None
+67.8692 	EXP 	New trial (rep=0, index=0): OrderedDict([('colourtest', 'White'), ('corresp', None)])
+67.8781 	EXP 	Juego: autoDraw = False
+67.8781 	EXP 	image_6: autoDraw = False
+67.8781 	EXP 	Juego: autoDraw = False
+67.8781 	EXP 	image_6: autoDraw = False
+67.8781 	EXP 	polygon: opacity = 1.0
+67.8781 	EXP 	polygon: pos = array([0., 0.])
+67.8781 	EXP 	polygon: size = array([0.2 , 0.35])
+67.8781 	EXP 	polygon: ori = 0.0
+67.8781 	EXP 	polygon: fillColor = 'White (named)'
+67.8781 	EXP 	polygon: lineColor = 'White (named)'
+67.8781 	EXP 	polygon: lineWidth = 1.0
+67.8781 	EXP 	polygon: autoDraw = True
+68.3797 	EXP 	polygon: autoDraw = False
+69.8658 	EXP 	New trial (rep=0, index=1): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+69.8791 	EXP 	polygon: autoDraw = False
+69.8791 	EXP 	polygon: opacity = 1.0
+69.8791 	EXP 	polygon: pos = array([0., 0.])
+69.8791 	EXP 	polygon: size = array([0.2 , 0.35])
+69.8791 	EXP 	polygon: ori = 0.0
+69.8791 	EXP 	polygon: fillColor = 'Red (named)'
+69.8791 	EXP 	polygon: lineColor = 'Red (named)'
+69.8791 	EXP 	polygon: lineWidth = 1.0
+69.8791 	EXP 	polygon: autoDraw = True
+70.3790 	EXP 	polygon: autoDraw = False
+71.8624 	EXP 	New trial (rep=0, index=2): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+71.8781 	EXP 	polygon: autoDraw = False
+71.8781 	EXP 	polygon: opacity = 1.0
+71.8781 	EXP 	polygon: pos = array([0., 0.])
+71.8781 	EXP 	polygon: size = array([0.2 , 0.35])
+71.8781 	EXP 	polygon: ori = 0.0
+71.8781 	EXP 	polygon: fillColor = 'Magenta (named)'
+71.8781 	EXP 	polygon: lineColor = 'Magenta (named)'
+71.8781 	EXP 	polygon: lineWidth = 1.0
+71.8781 	EXP 	polygon: autoDraw = True
+72.3783 	EXP 	polygon: autoDraw = False
+72.7287 	DATA 	Keypress: return
+73.8641 	EXP 	New trial (rep=0, index=3): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+73.8778 	EXP 	polygon: autoDraw = False
+73.8778 	EXP 	polygon: opacity = 1.0
+73.8778 	EXP 	polygon: pos = array([0., 0.])
+73.8778 	EXP 	polygon: size = array([0.2 , 0.35])
+73.8778 	EXP 	polygon: ori = 0.0
+73.8778 	EXP 	polygon: fillColor = 'Cyan (named)'
+73.8778 	EXP 	polygon: lineColor = 'Cyan (named)'
+73.8778 	EXP 	polygon: lineWidth = 1.0
+73.8778 	EXP 	polygon: autoDraw = True
+74.3776 	EXP 	polygon: autoDraw = False
+75.8629 	EXP 	New trial (rep=0, index=4): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+75.8772 	EXP 	polygon: autoDraw = False
+75.8772 	EXP 	polygon: opacity = 1.0
+75.8772 	EXP 	polygon: pos = array([0., 0.])
+75.8772 	EXP 	polygon: size = array([0.2 , 0.35])
+75.8772 	EXP 	polygon: ori = 0.0
+75.8772 	EXP 	polygon: fillColor = 'Magenta (named)'
+75.8772 	EXP 	polygon: lineColor = 'Magenta (named)'
+75.8772 	EXP 	polygon: lineWidth = 1.0
+75.8772 	EXP 	polygon: autoDraw = True
+76.3769 	EXP 	polygon: autoDraw = False
+77.8621 	EXP 	New trial (rep=0, index=5): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+77.8764 	EXP 	polygon: autoDraw = False
+77.8764 	EXP 	polygon: opacity = 1.0
+77.8764 	EXP 	polygon: pos = array([0., 0.])
+77.8764 	EXP 	polygon: size = array([0.2 , 0.35])
+77.8764 	EXP 	polygon: ori = 0.0
+77.8764 	EXP 	polygon: fillColor = 'Green (named)'
+77.8764 	EXP 	polygon: lineColor = 'Green (named)'
+77.8764 	EXP 	polygon: lineWidth = 1.0
+77.8764 	EXP 	polygon: autoDraw = True
+78.3762 	EXP 	polygon: autoDraw = False
+79.8615 	EXP 	New trial (rep=0, index=6): OrderedDict([('colourtest', 'White'), ('corresp', None)])
+79.8757 	EXP 	polygon: autoDraw = False
+79.8757 	EXP 	polygon: opacity = 1.0
+79.8757 	EXP 	polygon: pos = array([0., 0.])
+79.8757 	EXP 	polygon: size = array([0.2 , 0.35])
+79.8757 	EXP 	polygon: ori = 0.0
+79.8757 	EXP 	polygon: fillColor = 'White (named)'
+79.8757 	EXP 	polygon: lineColor = 'White (named)'
+79.8757 	EXP 	polygon: lineWidth = 1.0
+79.8757 	EXP 	polygon: autoDraw = True
+80.3756 	EXP 	polygon: autoDraw = False
+81.8609 	EXP 	New trial (rep=0, index=7): OrderedDict([('colourtest', 'Green'), ('corresp', ['space'])])
+81.8750 	EXP 	polygon: autoDraw = False
+81.8750 	EXP 	polygon: opacity = 1.0
+81.8750 	EXP 	polygon: pos = array([0., 0.])
+81.8750 	EXP 	polygon: size = array([0.2 , 0.35])
+81.8750 	EXP 	polygon: ori = 0.0
+81.8750 	EXP 	polygon: fillColor = 'Green (named)'
+81.8750 	EXP 	polygon: lineColor = 'Green (named)'
+81.8750 	EXP 	polygon: lineWidth = 1.0
+81.8750 	EXP 	polygon: autoDraw = True
+82.3749 	EXP 	polygon: autoDraw = False
+83.8602 	EXP 	New trial (rep=0, index=8): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+83.8743 	EXP 	polygon: autoDraw = False
+83.8743 	EXP 	polygon: opacity = 1.0
+83.8743 	EXP 	polygon: pos = array([0., 0.])
+83.8743 	EXP 	polygon: size = array([0.2 , 0.35])
+83.8743 	EXP 	polygon: ori = 0.0
+83.8743 	EXP 	polygon: fillColor = 'Blue (named)'
+83.8743 	EXP 	polygon: lineColor = 'Blue (named)'
+83.8743 	EXP 	polygon: lineWidth = 1.0
+83.8743 	EXP 	polygon: autoDraw = True
+84.3739 	EXP 	polygon: autoDraw = False
+85.8595 	EXP 	New trial (rep=0, index=9): OrderedDict([('colourtest', 'Green'), ('corresp', ['space'])])
+85.8736 	EXP 	polygon: autoDraw = False
+85.8736 	EXP 	polygon: opacity = 1.0
+85.8736 	EXP 	polygon: pos = array([0., 0.])
+85.8736 	EXP 	polygon: size = array([0.2 , 0.35])
+85.8736 	EXP 	polygon: ori = 0.0
+85.8736 	EXP 	polygon: fillColor = 'Green (named)'
+85.8736 	EXP 	polygon: lineColor = 'Green (named)'
+85.8736 	EXP 	polygon: lineWidth = 1.0
+85.8736 	EXP 	polygon: autoDraw = True
+86.3735 	EXP 	polygon: autoDraw = False
+86.5239 	DATA 	Keypress: return
+87.8631 	EXP 	Imported treatment_order_b.csv as conditions, 18 conditions, 4 params
+87.8635 	EXP 	Created sequence: sequential, trialTypes=18, nReps=1, seed=None
+87.8639 	EXP 	New trial (rep=0, index=0): OrderedDict([('inmediato', 0), ('consciente', 0), ('inconsciente', 1), ('nback_slice', '15:50')])
+87.8914 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+87.8917 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+87.9081 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+87.9084 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+87.9233 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+87.9235 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+87.9237 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_qpjrg_63.15_55.0.jpg'), ('correcta', 'left')])
+87.9727 	EXP 	polygon: autoDraw = False
+87.9727 	EXP 	holi: pos = array([0.5, 0. ])
+87.9727 	EXP 	image_3: image = './completed_changuitos/montage_qpjrg_63.15_55.0.jpg'
+87.9727 	EXP 	holi: autoDraw = True
+105.0521 	DATA 	Keypress: space
+105.0671 	EXP 	holi: autoDraw = False
+105.0671 	EXP 	image_3: autoDraw = True
+108.4331 	DATA 	Keypress: right
+113.0991 	EXP 	Imported ColourTest2.xlsx as conditions, 35 conditions, 2 params
+113.0996 	EXP 	Created sequence: sequential, trialTypes=35, nReps=1, seed=None
+113.1000 	EXP 	New trial (rep=0, index=0): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+113.1093 	EXP 	image_3: autoDraw = False
+113.1093 	EXP 	holi: autoDraw = False
+113.1093 	EXP 	image_3: autoDraw = False
+113.1093 	EXP 	polygon_2: opacity = 1.0
+113.1093 	EXP 	polygon_2: pos = array([0., 0.])
+113.1093 	EXP 	polygon_2: size = array([0.2 , 0.35])
+113.1093 	EXP 	polygon_2: ori = 0.0
+113.1093 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+113.1093 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+113.1093 	EXP 	polygon_2: lineWidth = 1.0
+113.1093 	EXP 	polygon_2: autoDraw = True
+113.6142 	EXP 	polygon_2: autoDraw = False
+115.1004 	EXP 	New trial (rep=0, index=1): OrderedDict([('colourtest', 'White'), ('corresp', ['space'])])
+115.1137 	EXP 	polygon_2: autoDraw = False
+115.1137 	EXP 	polygon_2: opacity = 1.0
+115.1137 	EXP 	polygon_2: pos = array([0., 0.])
+115.1137 	EXP 	polygon_2: size = array([0.2 , 0.35])
+115.1137 	EXP 	polygon_2: ori = 0.0
+115.1137 	EXP 	polygon_2: fillColor = 'White (named)'
+115.1137 	EXP 	polygon_2: lineColor = 'White (named)'
+115.1137 	EXP 	polygon_2: lineWidth = 1.0
+115.1137 	EXP 	polygon_2: autoDraw = True
+115.6132 	EXP 	polygon_2: autoDraw = False
+117.0989 	EXP 	New trial (rep=0, index=2): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+117.1130 	EXP 	polygon_2: autoDraw = False
+117.1130 	EXP 	polygon_2: opacity = 1.0
+117.1130 	EXP 	polygon_2: pos = array([0., 0.])
+117.1130 	EXP 	polygon_2: size = array([0.2 , 0.35])
+117.1130 	EXP 	polygon_2: ori = 0.0
+117.1130 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+117.1130 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+117.1130 	EXP 	polygon_2: lineWidth = 1.0
+117.1130 	EXP 	polygon_2: autoDraw = True
+117.6128 	EXP 	polygon_2: autoDraw = False
+119.0982 	EXP 	New trial (rep=0, index=3): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+119.1124 	EXP 	polygon_2: autoDraw = False
+119.1124 	EXP 	polygon_2: opacity = 1.0
+119.1124 	EXP 	polygon_2: pos = array([0., 0.])
+119.1124 	EXP 	polygon_2: size = array([0.2 , 0.35])
+119.1124 	EXP 	polygon_2: ori = 0.0
+119.1124 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+119.1124 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+119.1124 	EXP 	polygon_2: lineWidth = 1.0
+119.1124 	EXP 	polygon_2: autoDraw = True
+119.6122 	EXP 	polygon_2: autoDraw = False
+121.1121 	EXP 	New trial (rep=0, index=4): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+121.1279 	EXP 	polygon_2: autoDraw = False
+121.1279 	EXP 	polygon_2: opacity = 1.0
+121.1279 	EXP 	polygon_2: pos = array([0., 0.])
+121.1279 	EXP 	polygon_2: size = array([0.2 , 0.35])
+121.1279 	EXP 	polygon_2: ori = 0.0
+121.1279 	EXP 	polygon_2: fillColor = 'Blue (named)'
+121.1279 	EXP 	polygon_2: lineColor = 'Blue (named)'
+121.1279 	EXP 	polygon_2: lineWidth = 1.0
+121.1279 	EXP 	polygon_2: autoDraw = True
+121.6282 	EXP 	polygon_2: autoDraw = False
+123.1136 	EXP 	New trial (rep=0, index=5): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+123.1276 	EXP 	polygon_2: autoDraw = False
+123.1276 	EXP 	polygon_2: opacity = 1.0
+123.1276 	EXP 	polygon_2: pos = array([0., 0.])
+123.1276 	EXP 	polygon_2: size = array([0.2 , 0.35])
+123.1276 	EXP 	polygon_2: ori = 0.0
+123.1276 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+123.1276 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+123.1276 	EXP 	polygon_2: lineWidth = 1.0
+123.1276 	EXP 	polygon_2: autoDraw = True
+123.6274 	EXP 	polygon_2: autoDraw = False
+123.8279 	DATA 	Keypress: return
+125.1134 	EXP 	New trial (rep=0, index=6): OrderedDict([('colourtest', 'Blue'), ('corresp', ['space'])])
+125.1268 	EXP 	polygon_2: autoDraw = False
+125.1268 	EXP 	polygon_2: opacity = 1.0
+125.1268 	EXP 	polygon_2: pos = array([0., 0.])
+125.1268 	EXP 	polygon_2: size = array([0.2 , 0.35])
+125.1268 	EXP 	polygon_2: ori = 0.0
+125.1268 	EXP 	polygon_2: fillColor = 'Blue (named)'
+125.1268 	EXP 	polygon_2: lineColor = 'Blue (named)'
+125.1268 	EXP 	polygon_2: lineWidth = 1.0
+125.1268 	EXP 	polygon_2: autoDraw = True
+125.5605 	DATA 	Keypress: return
+125.6268 	EXP 	polygon_2: autoDraw = False
+127.0791 	EXP 	New trial (rep=0, index=7): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+127.0834 	EXP 	New trial (rep=0, index=8): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+127.0870 	EXP 	New trial (rep=0, index=9): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+127.0902 	EXP 	New trial (rep=0, index=10): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+127.0934 	EXP 	New trial (rep=0, index=11): OrderedDict([('colourtest', 'Cyan'), ('corresp', ['space'])])
+127.0966 	EXP 	New trial (rep=0, index=12): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+127.0998 	EXP 	New trial (rep=0, index=13): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+127.1030 	EXP 	New trial (rep=0, index=14): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+127.1054 	EXP 	New trial (rep=0, index=15): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+127.1076 	EXP 	New trial (rep=0, index=16): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+127.1098 	EXP 	New trial (rep=0, index=17): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+127.1115 	EXP 	New trial (rep=0, index=18): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+127.1132 	EXP 	New trial (rep=0, index=19): OrderedDict([('colourtest', 'Blue'), ('corresp', ['space'])])
+127.1146 	EXP 	New trial (rep=0, index=20): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+127.1160 	EXP 	New trial (rep=0, index=21): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+127.1174 	EXP 	New trial (rep=0, index=22): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+127.1187 	EXP 	New trial (rep=0, index=23): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+127.1199 	EXP 	New trial (rep=0, index=24): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+127.1211 	EXP 	New trial (rep=0, index=25): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+127.1222 	EXP 	New trial (rep=0, index=26): OrderedDict([('colourtest', 'Red'), ('corresp', ['space'])])
+127.1234 	EXP 	New trial (rep=0, index=27): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+127.1244 	EXP 	New trial (rep=0, index=28): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+127.1254 	EXP 	New trial (rep=0, index=29): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+127.1264 	EXP 	New trial (rep=0, index=30): OrderedDict([('colourtest', 'White'), ('corresp', None)])
+127.1274 	EXP 	New trial (rep=0, index=31): OrderedDict([('colourtest', 'Green'), ('corresp', ['space'])])
+127.1284 	EXP 	New trial (rep=0, index=32): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+127.1293 	EXP 	New trial (rep=0, index=33): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+127.1302 	EXP 	New trial (rep=0, index=34): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Blue (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Blue (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Red (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Red (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Green (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Green (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Blue (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Blue (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Blue (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Blue (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Red (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Red (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Red (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Red (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Green (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Green (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'White (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'White (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Green (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Green (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Red (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Red (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Blue (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Blue (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	polygon_2: opacity = 1.0
+127.1757 	EXP 	polygon_2: pos = array([0., 0.])
+127.1757 	EXP 	polygon_2: size = array([0.2 , 0.35])
+127.1757 	EXP 	polygon_2: ori = 0.0
+127.1757 	EXP 	polygon_2: fillColor = 'Green (named)'
+127.1757 	EXP 	polygon_2: lineColor = 'Green (named)'
+127.1757 	EXP 	polygon_2: lineWidth = 1.0
+127.1757 	EXP 	polygon_2: autoDraw = True
+127.1757 	EXP 	polygon_2: autoDraw = False
+127.1757 	EXP 	text_2: pos = array([0.5, 0. ])
+127.1757 	EXP 	image_5: image = './completed_changuitos/montage_qpjrg_63.15_55.0.jpg'
+127.1757 	EXP 	text_2: autoDraw = True
+127.1757 	EXP 	image_5: autoDraw = True
+130.1752 	EXP 	image_5: autoDraw = False
+130.6922 	DATA 	Keypress: right
+130.6966 	EXP 	New trial (rep=0, index=1): OrderedDict([('inmediato', 0), ('consciente', 1), ('inconsciente', 0), ('nback_slice', '19:50')])
+130.7365 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+130.7368 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+130.7531 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+130.7534 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+130.7536 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_emrxj_92.05_106.59.jpg'), ('correcta', 'right')])
+130.8519 	EXP 	text_2: autoDraw = False
+130.8519 	EXP 	image_5: autoDraw = False
+130.8519 	EXP 	hola: pos = array([0.5, 0. ])
+130.8519 	EXP 	hola: text = 'Recordatorios: \n- Elegi el producto MÁS CARO.\n- Solo podes responder cuando aparezca la pregunta.\n- A veces te puede tocar hacer el juego de los colores (presioná "enter" cuando aparezca el mismo color que se mostró dos posiciones antes)\n\n- Barra espaciadora para continuar -'
+130.8519 	EXP 	image_2: image = './completed_changuitos/montage_emrxj_92.05_106.59.jpg'
+130.8519 	EXP 	tiempo_para_pensar: pos = array([0.5, 0. ])
+130.8519 	EXP 	cual_es_la_mas_barata: pos = array([0.5, 0. ])
+130.8519 	EXP 	image_4: image = './completed_changuitos/montage_emrxj_92.05_106.59.jpg'
+130.8519 	EXP 	hola: autoDraw = True
+136.4402 	DATA 	Keypress: space
+136.4562 	EXP 	hola: autoDraw = False
+136.4562 	EXP 	image_2: autoDraw = True
+138.0566 	DATA 	Keypress: right
+144.4698 	EXP 	image_2: autoDraw = False
+144.4698 	EXP 	tiempo_para_pensar: autoDraw = True
+156.1668 	DATA 	Keypress: space
+158.4822 	EXP 	tiempo_para_pensar: autoDraw = False
+158.4822 	EXP 	cual_es_la_mas_barata: autoDraw = True
+158.4822 	EXP 	image_4: autoDraw = True
+160.5330 	DATA 	Keypress: right
+160.5766 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+160.5769 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+160.5772 	EXP 	New trial (rep=0, index=2): OrderedDict([('inmediato', 0), ('consciente', 0), ('inconsciente', 1), ('nback_slice', '20:50')])
+160.5930 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+160.5933 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+160.6073 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+160.6075 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+160.6216 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+160.6218 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+160.6220 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_jdmwp_67.19_57.69.jpg'), ('correcta', 'left')])
+160.6629 	EXP 	hola: autoDraw = False
+160.6629 	EXP 	image_2: autoDraw = False
+160.6629 	EXP 	tiempo_para_pensar: autoDraw = False
+160.6629 	EXP 	cual_es_la_mas_barata: autoDraw = False
+160.6629 	EXP 	image_4: autoDraw = False
+160.6629 	EXP 	holi: pos = array([0.5, 0. ])
+160.6629 	EXP 	image_3: image = './completed_changuitos/montage_jdmwp_67.19_57.69.jpg'
+160.6629 	EXP 	holi: autoDraw = True
+163.8807 	DATA 	Keypress: space
+163.8970 	EXP 	holi: autoDraw = False
+163.8970 	EXP 	image_3: autoDraw = True
+171.9290 	EXP 	Imported ColourTest2.xlsx as conditions, 30 conditions, 2 params
+171.9294 	EXP 	Created sequence: sequential, trialTypes=30, nReps=1, seed=None
+171.9298 	EXP 	New trial (rep=0, index=0): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+171.9391 	EXP 	image_3: autoDraw = False
+171.9391 	EXP 	holi: autoDraw = False
+171.9391 	EXP 	image_3: autoDraw = False
+171.9391 	EXP 	polygon_2: opacity = 1.0
+171.9391 	EXP 	polygon_2: pos = array([0., 0.])
+171.9391 	EXP 	polygon_2: size = array([0.2 , 0.35])
+171.9391 	EXP 	polygon_2: ori = 0.0
+171.9391 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+171.9391 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+171.9391 	EXP 	polygon_2: lineWidth = 1.0
+171.9391 	EXP 	polygon_2: autoDraw = True
+172.4441 	EXP 	polygon_2: autoDraw = False
+173.9303 	EXP 	New trial (rep=0, index=1): OrderedDict([('colourtest', 'Blue'), ('corresp', ['space'])])
+173.9435 	EXP 	polygon_2: autoDraw = False
+173.9435 	EXP 	polygon_2: opacity = 1.0
+173.9435 	EXP 	polygon_2: pos = array([0., 0.])
+173.9435 	EXP 	polygon_2: size = array([0.2 , 0.35])
+173.9435 	EXP 	polygon_2: ori = 0.0
+173.9435 	EXP 	polygon_2: fillColor = 'Blue (named)'
+173.9435 	EXP 	polygon_2: lineColor = 'Blue (named)'
+173.9435 	EXP 	polygon_2: lineWidth = 1.0
+173.9435 	EXP 	polygon_2: autoDraw = True
+174.4434 	EXP 	polygon_2: autoDraw = False
+175.9288 	EXP 	New trial (rep=0, index=2): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+175.9429 	EXP 	polygon_2: autoDraw = False
+175.9429 	EXP 	polygon_2: opacity = 1.0
+175.9429 	EXP 	polygon_2: pos = array([0., 0.])
+175.9429 	EXP 	polygon_2: size = array([0.2 , 0.35])
+175.9429 	EXP 	polygon_2: ori = 0.0
+175.9429 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+175.9429 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+175.9429 	EXP 	polygon_2: lineWidth = 1.0
+175.9429 	EXP 	polygon_2: autoDraw = True
+176.4427 	EXP 	polygon_2: autoDraw = False
+177.9280 	EXP 	New trial (rep=0, index=3): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+177.9422 	EXP 	polygon_2: autoDraw = False
+177.9422 	EXP 	polygon_2: opacity = 1.0
+177.9422 	EXP 	polygon_2: pos = array([0., 0.])
+177.9422 	EXP 	polygon_2: size = array([0.2 , 0.35])
+177.9422 	EXP 	polygon_2: ori = 0.0
+177.9422 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+177.9422 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+177.9422 	EXP 	polygon_2: lineWidth = 1.0
+177.9422 	EXP 	polygon_2: autoDraw = True
+178.4421 	EXP 	polygon_2: autoDraw = False
+179.9274 	EXP 	New trial (rep=0, index=4): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+179.9415 	EXP 	polygon_2: autoDraw = False
+179.9415 	EXP 	polygon_2: opacity = 1.0
+179.9415 	EXP 	polygon_2: pos = array([0., 0.])
+179.9415 	EXP 	polygon_2: size = array([0.2 , 0.35])
+179.9415 	EXP 	polygon_2: ori = 0.0
+179.9415 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+179.9415 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+179.9415 	EXP 	polygon_2: lineWidth = 1.0
+179.9415 	EXP 	polygon_2: autoDraw = True
+180.4409 	EXP 	polygon_2: autoDraw = False
+181.9267 	EXP 	New trial (rep=0, index=5): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+181.9407 	EXP 	polygon_2: autoDraw = False
+181.9407 	EXP 	polygon_2: opacity = 1.0
+181.9407 	EXP 	polygon_2: pos = array([0., 0.])
+181.9407 	EXP 	polygon_2: size = array([0.2 , 0.35])
+181.9407 	EXP 	polygon_2: ori = 0.0
+181.9407 	EXP 	polygon_2: fillColor = 'Blue (named)'
+181.9407 	EXP 	polygon_2: lineColor = 'Blue (named)'
+181.9407 	EXP 	polygon_2: lineWidth = 1.0
+181.9407 	EXP 	polygon_2: autoDraw = True
+182.4407 	EXP 	polygon_2: autoDraw = False
+183.9260 	EXP 	New trial (rep=0, index=6): OrderedDict([('colourtest', 'Cyan'), ('corresp', ['space'])])
+183.9401 	EXP 	polygon_2: autoDraw = False
+183.9401 	EXP 	polygon_2: opacity = 1.0
+183.9401 	EXP 	polygon_2: pos = array([0., 0.])
+183.9401 	EXP 	polygon_2: size = array([0.2 , 0.35])
+183.9401 	EXP 	polygon_2: ori = 0.0
+183.9401 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+183.9401 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+183.9401 	EXP 	polygon_2: lineWidth = 1.0
+183.9401 	EXP 	polygon_2: autoDraw = True
+184.4400 	EXP 	polygon_2: autoDraw = False
+184.4740 	DATA 	Keypress: return
+185.9093 	EXP 	New trial (rep=0, index=7): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+185.9136 	EXP 	New trial (rep=0, index=8): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+185.9172 	EXP 	New trial (rep=0, index=9): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+185.9208 	EXP 	New trial (rep=0, index=10): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+185.9241 	EXP 	New trial (rep=0, index=11): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+185.9273 	EXP 	New trial (rep=0, index=12): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+185.9299 	EXP 	New trial (rep=0, index=13): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+185.9321 	EXP 	New trial (rep=0, index=14): OrderedDict([('colourtest', 'Blue'), ('corresp', ['space'])])
+185.9341 	EXP 	New trial (rep=0, index=15): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+185.9358 	EXP 	New trial (rep=0, index=16): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+185.9375 	EXP 	New trial (rep=0, index=17): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+185.9392 	EXP 	New trial (rep=0, index=18): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+185.9406 	EXP 	New trial (rep=0, index=19): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+185.9419 	EXP 	New trial (rep=0, index=20): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+185.9433 	EXP 	New trial (rep=0, index=21): OrderedDict([('colourtest', 'Red'), ('corresp', ['space'])])
+185.9445 	EXP 	New trial (rep=0, index=22): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+185.9456 	EXP 	New trial (rep=0, index=23): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+185.9467 	EXP 	New trial (rep=0, index=24): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+185.9479 	EXP 	New trial (rep=0, index=25): OrderedDict([('colourtest', 'White'), ('corresp', None)])
+185.9490 	EXP 	New trial (rep=0, index=26): OrderedDict([('colourtest', 'Green'), ('corresp', ['space'])])
+185.9500 	EXP 	New trial (rep=0, index=27): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+185.9509 	EXP 	New trial (rep=0, index=28): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+185.9519 	EXP 	New trial (rep=0, index=29): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Red (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Red (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Green (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Green (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Blue (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Blue (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Blue (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Blue (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Red (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Red (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Red (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Red (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Green (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Green (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'White (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'White (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Green (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Green (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Red (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Red (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Blue (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Blue (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	polygon_2: opacity = 1.0
+185.9944 	EXP 	polygon_2: pos = array([0., 0.])
+185.9944 	EXP 	polygon_2: size = array([0.2 , 0.35])
+185.9944 	EXP 	polygon_2: ori = 0.0
+185.9944 	EXP 	polygon_2: fillColor = 'Green (named)'
+185.9944 	EXP 	polygon_2: lineColor = 'Green (named)'
+185.9944 	EXP 	polygon_2: lineWidth = 1.0
+185.9944 	EXP 	polygon_2: autoDraw = True
+185.9944 	EXP 	polygon_2: autoDraw = False
+185.9944 	EXP 	text_2: pos = array([0.5, 0. ])
+185.9944 	EXP 	image_5: image = './completed_changuitos/montage_jdmwp_67.19_57.69.jpg'
+185.9944 	EXP 	text_2: autoDraw = True
+185.9944 	EXP 	image_5: autoDraw = True
+189.0051 	EXP 	image_5: autoDraw = False
+189.3555 	DATA 	Keypress: left
+189.3599 	EXP 	New trial (rep=0, index=3): OrderedDict([('inmediato', 0), ('consciente', 1), ('inconsciente', 0), ('nback_slice', '25:50')])
+189.4004 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+189.4007 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+189.4186 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+189.4188 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+189.4190 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_udnqp_169.0_147.29.jpg'), ('correcta', 'left')])
+189.4983 	EXP 	text_2: autoDraw = False
+189.4983 	EXP 	image_5: autoDraw = False
+189.4983 	EXP 	hola: pos = array([0.5, 0. ])
+189.4983 	EXP 	hola: text = 'Recordatorios: \n- Elegi el producto MÁS CARO.\n- Solo podes responder cuando aparezca la pregunta.\n- A veces te puede tocar hacer el juego de los colores (presioná "enter" cuando aparezca el mismo color que se mostró dos posiciones antes)\n\n- Barra espaciadora para continuar -'
+189.4983 	EXP 	image_2: image = './completed_changuitos/montage_udnqp_169.0_147.29.jpg'
+189.4983 	EXP 	tiempo_para_pensar: pos = array([0.5, 0. ])
+189.4983 	EXP 	cual_es_la_mas_barata: pos = array([0.5, 0. ])
+189.4983 	EXP 	image_4: image = './completed_changuitos/montage_udnqp_169.0_147.29.jpg'
+189.4983 	EXP 	hola: autoDraw = True
+196.0697 	DATA 	Keypress: space
+196.0860 	EXP 	hola: autoDraw = False
+196.0860 	EXP 	image_2: autoDraw = True
+204.1000 	EXP 	image_2: autoDraw = False
+204.1000 	EXP 	tiempo_para_pensar: autoDraw = True
+218.1118 	EXP 	tiempo_para_pensar: autoDraw = False
+218.1118 	EXP 	cual_es_la_mas_barata: autoDraw = True
+218.1118 	EXP 	image_4: autoDraw = True
+219.2452 	DATA 	Keypress: left
+219.2908 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+219.2911 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+219.2914 	EXP 	New trial (rep=0, index=4): OrderedDict([('inmediato', 0), ('consciente', 0), ('inconsciente', 1), ('nback_slice', '28:50')])
+219.3076 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+219.3078 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+219.3228 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+219.3232 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+219.3378 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+219.3381 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+219.3382 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_sprdb_55.65_48.49.jpg'), ('correcta', 'left')])
+219.3874 	EXP 	hola: autoDraw = False
+219.3874 	EXP 	image_2: autoDraw = False
+219.3874 	EXP 	tiempo_para_pensar: autoDraw = False
+219.3874 	EXP 	cual_es_la_mas_barata: autoDraw = False
+219.3874 	EXP 	image_4: autoDraw = False
+219.3874 	EXP 	holi: pos = array([0.5, 0. ])
+219.3874 	EXP 	image_3: image = './completed_changuitos/montage_sprdb_55.65_48.49.jpg'
+219.3874 	EXP 	holi: autoDraw = True
+220.7946 	DATA 	Keypress: space
+220.8109 	EXP 	holi: autoDraw = False
+220.8109 	EXP 	image_3: autoDraw = True
+228.8247 	EXP 	Imported ColourTest2.xlsx as conditions, 22 conditions, 2 params
+228.8250 	EXP 	Created sequence: sequential, trialTypes=22, nReps=1, seed=None
+228.8252 	EXP 	New trial (rep=0, index=0): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+228.8339 	EXP 	image_3: autoDraw = False
+228.8339 	EXP 	holi: autoDraw = False
+228.8339 	EXP 	image_3: autoDraw = False
+228.8339 	EXP 	polygon_2: opacity = 1.0
+228.8339 	EXP 	polygon_2: pos = array([0., 0.])
+228.8339 	EXP 	polygon_2: size = array([0.2 , 0.35])
+228.8339 	EXP 	polygon_2: ori = 0.0
+228.8339 	EXP 	polygon_2: fillColor = 'Red (named)'
+228.8339 	EXP 	polygon_2: lineColor = 'Red (named)'
+228.8339 	EXP 	polygon_2: lineWidth = 1.0
+228.8339 	EXP 	polygon_2: autoDraw = True
+229.3411 	EXP 	polygon_2: autoDraw = False
+230.8276 	EXP 	New trial (rep=0, index=1): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+230.8406 	EXP 	polygon_2: autoDraw = False
+230.8406 	EXP 	polygon_2: opacity = 1.0
+230.8406 	EXP 	polygon_2: pos = array([0., 0.])
+230.8406 	EXP 	polygon_2: size = array([0.2 , 0.35])
+230.8406 	EXP 	polygon_2: ori = 0.0
+230.8406 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+230.8406 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+230.8406 	EXP 	polygon_2: lineWidth = 1.0
+230.8406 	EXP 	polygon_2: autoDraw = True
+231.3406 	EXP 	polygon_2: autoDraw = False
+232.8260 	EXP 	New trial (rep=0, index=2): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+232.8401 	EXP 	polygon_2: autoDraw = False
+232.8401 	EXP 	polygon_2: opacity = 1.0
+232.8401 	EXP 	polygon_2: pos = array([0., 0.])
+232.8401 	EXP 	polygon_2: size = array([0.2 , 0.35])
+232.8401 	EXP 	polygon_2: ori = 0.0
+232.8401 	EXP 	polygon_2: fillColor = 'Green (named)'
+232.8401 	EXP 	polygon_2: lineColor = 'Green (named)'
+232.8401 	EXP 	polygon_2: lineWidth = 1.0
+232.8401 	EXP 	polygon_2: autoDraw = True
+233.3399 	EXP 	polygon_2: autoDraw = False
+234.8253 	EXP 	New trial (rep=0, index=3): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+234.8394 	EXP 	polygon_2: autoDraw = False
+234.8394 	EXP 	polygon_2: opacity = 1.0
+234.8394 	EXP 	polygon_2: pos = array([0., 0.])
+234.8394 	EXP 	polygon_2: size = array([0.2 , 0.35])
+234.8394 	EXP 	polygon_2: ori = 0.0
+234.8394 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+234.8394 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+234.8394 	EXP 	polygon_2: lineWidth = 1.0
+234.8394 	EXP 	polygon_2: autoDraw = True
+235.3392 	EXP 	polygon_2: autoDraw = False
+236.8249 	EXP 	New trial (rep=0, index=4): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+236.8386 	EXP 	polygon_2: autoDraw = False
+236.8386 	EXP 	polygon_2: opacity = 1.0
+236.8386 	EXP 	polygon_2: pos = array([0., 0.])
+236.8386 	EXP 	polygon_2: size = array([0.2 , 0.35])
+236.8386 	EXP 	polygon_2: ori = 0.0
+236.8386 	EXP 	polygon_2: fillColor = 'Blue (named)'
+236.8386 	EXP 	polygon_2: lineColor = 'Blue (named)'
+236.8386 	EXP 	polygon_2: lineWidth = 1.0
+236.8386 	EXP 	polygon_2: autoDraw = True
+237.3386 	EXP 	polygon_2: autoDraw = False
+238.8241 	EXP 	New trial (rep=0, index=5): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+238.8376 	EXP 	polygon_2: autoDraw = False
+238.8376 	EXP 	polygon_2: opacity = 1.0
+238.8376 	EXP 	polygon_2: pos = array([0., 0.])
+238.8376 	EXP 	polygon_2: size = array([0.2 , 0.35])
+238.8376 	EXP 	polygon_2: ori = 0.0
+238.8376 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+238.8376 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+238.8376 	EXP 	polygon_2: lineWidth = 1.0
+238.8376 	EXP 	polygon_2: autoDraw = True
+239.3379 	EXP 	polygon_2: autoDraw = False
+240.8233 	EXP 	New trial (rep=0, index=6): OrderedDict([('colourtest', 'Blue'), ('corresp', ['space'])])
+240.8373 	EXP 	polygon_2: autoDraw = False
+240.8373 	EXP 	polygon_2: opacity = 1.0
+240.8373 	EXP 	polygon_2: pos = array([0., 0.])
+240.8373 	EXP 	polygon_2: size = array([0.2 , 0.35])
+240.8373 	EXP 	polygon_2: ori = 0.0
+240.8373 	EXP 	polygon_2: fillColor = 'Blue (named)'
+240.8373 	EXP 	polygon_2: lineColor = 'Blue (named)'
+240.8373 	EXP 	polygon_2: lineWidth = 1.0
+240.8373 	EXP 	polygon_2: autoDraw = True
+241.3373 	EXP 	polygon_2: autoDraw = False
+242.8226 	EXP 	New trial (rep=0, index=7): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+242.8267 	EXP 	New trial (rep=0, index=8): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+242.8299 	EXP 	New trial (rep=0, index=9): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+242.8331 	EXP 	New trial (rep=0, index=10): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+242.8363 	EXP 	New trial (rep=0, index=11): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+242.8395 	EXP 	New trial (rep=0, index=12): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+242.8428 	EXP 	New trial (rep=0, index=13): OrderedDict([('colourtest', 'Red'), ('corresp', ['space'])])
+242.8460 	EXP 	New trial (rep=0, index=14): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+242.8490 	EXP 	New trial (rep=0, index=15): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+242.8512 	EXP 	New trial (rep=0, index=16): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+242.8534 	EXP 	New trial (rep=0, index=17): OrderedDict([('colourtest', 'White'), ('corresp', None)])
+242.8551 	EXP 	New trial (rep=0, index=18): OrderedDict([('colourtest', 'Green'), ('corresp', ['space'])])
+242.8572 	EXP 	New trial (rep=0, index=19): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+242.8588 	EXP 	New trial (rep=0, index=20): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+242.8601 	EXP 	New trial (rep=0, index=21): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Red (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Red (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Red (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Red (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Green (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Green (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'White (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'White (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Green (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Green (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Red (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Red (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Blue (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Blue (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	polygon_2: opacity = 1.0
+242.9039 	EXP 	polygon_2: pos = array([0., 0.])
+242.9039 	EXP 	polygon_2: size = array([0.2 , 0.35])
+242.9039 	EXP 	polygon_2: ori = 0.0
+242.9039 	EXP 	polygon_2: fillColor = 'Green (named)'
+242.9039 	EXP 	polygon_2: lineColor = 'Green (named)'
+242.9039 	EXP 	polygon_2: lineWidth = 1.0
+242.9039 	EXP 	polygon_2: autoDraw = True
+242.9039 	EXP 	polygon_2: autoDraw = False
+242.9039 	EXP 	text_2: pos = array([0.5, 0. ])
+242.9039 	EXP 	image_5: image = './completed_changuitos/montage_sprdb_55.65_48.49.jpg'
+242.9039 	EXP 	text_2: autoDraw = True
+242.9039 	EXP 	image_5: autoDraw = True
+245.1364 	DATA 	Keypress: left
+245.1409 	EXP 	New trial (rep=0, index=5): OrderedDict([('inmediato', 0), ('consciente', 1), ('inconsciente', 0), ('nback_slice', '10:50')])
+245.1804 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+245.1807 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+245.1971 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+245.1974 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+245.1976 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_hzesm_438.9_512.55.jpg'), ('correcta', 'right')])
+245.2761 	EXP 	text_2: autoDraw = False
+245.2761 	EXP 	image_5: autoDraw = False
+245.2761 	EXP 	hola: pos = array([0.5, 0. ])
+245.2761 	EXP 	hola: text = 'Recordatorios: \n- Elegi el producto MÁS CARO.\n- Solo podes responder cuando aparezca la pregunta.\n- A veces te puede tocar hacer el juego de los colores (presioná "enter" cuando aparezca el mismo color que se mostró dos posiciones antes)\n\n- Barra espaciadora para continuar -'
+245.2761 	EXP 	image_2: image = './completed_changuitos/montage_hzesm_438.9_512.55.jpg'
+245.2761 	EXP 	tiempo_para_pensar: pos = array([0.5, 0. ])
+245.2761 	EXP 	cual_es_la_mas_barata: pos = array([0.5, 0. ])
+245.2761 	EXP 	image_4: image = './completed_changuitos/montage_hzesm_438.9_512.55.jpg'
+245.2761 	EXP 	hola: autoDraw = True
+251.0675 	DATA 	Keypress: space
+251.0839 	EXP 	hola: autoDraw = False
+251.0839 	EXP 	image_2: autoDraw = True
+259.0974 	EXP 	image_2: autoDraw = False
+259.0974 	EXP 	tiempo_para_pensar: autoDraw = True
+273.1097 	EXP 	tiempo_para_pensar: autoDraw = False
+273.1097 	EXP 	cual_es_la_mas_barata: autoDraw = True
+273.1097 	EXP 	image_4: autoDraw = True
+274.4440 	DATA 	Keypress: left
+274.4901 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+274.4904 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+274.4908 	EXP 	New trial (rep=0, index=6): OrderedDict([('inmediato', 0), ('consciente', 0), ('inconsciente', 1), ('nback_slice', '15:50')])
+274.5072 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+274.5074 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+274.5218 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+274.5220 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+274.5363 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+274.5365 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+274.5367 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_ohahd_179.75_153.55.jpg'), ('correcta', 'left')])
+274.5755 	EXP 	hola: autoDraw = False
+274.5755 	EXP 	image_2: autoDraw = False
+274.5755 	EXP 	tiempo_para_pensar: autoDraw = False
+274.5755 	EXP 	cual_es_la_mas_barata: autoDraw = False
+274.5755 	EXP 	image_4: autoDraw = False
+274.5755 	EXP 	holi: pos = array([0.5, 0. ])
+274.5755 	EXP 	image_3: image = './completed_changuitos/montage_ohahd_179.75_153.55.jpg'
+274.5755 	EXP 	holi: autoDraw = True
+276.7748 	DATA 	Keypress: space
+276.7914 	EXP 	holi: autoDraw = False
+276.7914 	EXP 	image_3: autoDraw = True
+284.8241 	EXP 	Imported ColourTest2.xlsx as conditions, 35 conditions, 2 params
+284.8246 	EXP 	Created sequence: sequential, trialTypes=35, nReps=1, seed=None
+284.8249 	EXP 	New trial (rep=0, index=0): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+284.8342 	EXP 	image_3: autoDraw = False
+284.8342 	EXP 	holi: autoDraw = False
+284.8342 	EXP 	image_3: autoDraw = False
+284.8342 	EXP 	polygon_2: opacity = 1.0
+284.8342 	EXP 	polygon_2: pos = array([0., 0.])
+284.8342 	EXP 	polygon_2: size = array([0.2 , 0.35])
+284.8342 	EXP 	polygon_2: ori = 0.0
+284.8342 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+284.8342 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+284.8342 	EXP 	polygon_2: lineWidth = 1.0
+284.8342 	EXP 	polygon_2: autoDraw = True
+285.3388 	EXP 	polygon_2: autoDraw = False
+286.8251 	EXP 	New trial (rep=0, index=1): OrderedDict([('colourtest', 'White'), ('corresp', ['space'])])
+286.8382 	EXP 	polygon_2: autoDraw = False
+286.8382 	EXP 	polygon_2: opacity = 1.0
+286.8382 	EXP 	polygon_2: pos = array([0., 0.])
+286.8382 	EXP 	polygon_2: size = array([0.2 , 0.35])
+286.8382 	EXP 	polygon_2: ori = 0.0
+286.8382 	EXP 	polygon_2: fillColor = 'White (named)'
+286.8382 	EXP 	polygon_2: lineColor = 'White (named)'
+286.8382 	EXP 	polygon_2: lineWidth = 1.0
+286.8382 	EXP 	polygon_2: autoDraw = True
+287.3381 	EXP 	polygon_2: autoDraw = False
+288.8235 	EXP 	New trial (rep=0, index=2): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+288.8376 	EXP 	polygon_2: autoDraw = False
+288.8376 	EXP 	polygon_2: opacity = 1.0
+288.8376 	EXP 	polygon_2: pos = array([0., 0.])
+288.8376 	EXP 	polygon_2: size = array([0.2 , 0.35])
+288.8376 	EXP 	polygon_2: ori = 0.0
+288.8376 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+288.8376 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+288.8376 	EXP 	polygon_2: lineWidth = 1.0
+288.8376 	EXP 	polygon_2: autoDraw = True
+289.3374 	EXP 	polygon_2: autoDraw = False
+290.8228 	EXP 	New trial (rep=0, index=3): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+290.8369 	EXP 	polygon_2: autoDraw = False
+290.8369 	EXP 	polygon_2: opacity = 1.0
+290.8369 	EXP 	polygon_2: pos = array([0., 0.])
+290.8369 	EXP 	polygon_2: size = array([0.2 , 0.35])
+290.8369 	EXP 	polygon_2: ori = 0.0
+290.8369 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+290.8369 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+290.8369 	EXP 	polygon_2: lineWidth = 1.0
+290.8369 	EXP 	polygon_2: autoDraw = True
+291.3367 	EXP 	polygon_2: autoDraw = False
+292.8221 	EXP 	New trial (rep=0, index=4): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+292.8362 	EXP 	polygon_2: autoDraw = False
+292.8362 	EXP 	polygon_2: opacity = 1.0
+292.8362 	EXP 	polygon_2: pos = array([0., 0.])
+292.8362 	EXP 	polygon_2: size = array([0.2 , 0.35])
+292.8362 	EXP 	polygon_2: ori = 0.0
+292.8362 	EXP 	polygon_2: fillColor = 'Blue (named)'
+292.8362 	EXP 	polygon_2: lineColor = 'Blue (named)'
+292.8362 	EXP 	polygon_2: lineWidth = 1.0
+292.8362 	EXP 	polygon_2: autoDraw = True
+293.3357 	EXP 	polygon_2: autoDraw = False
+294.8218 	EXP 	New trial (rep=0, index=5): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+294.8355 	EXP 	polygon_2: autoDraw = False
+294.8355 	EXP 	polygon_2: opacity = 1.0
+294.8355 	EXP 	polygon_2: pos = array([0., 0.])
+294.8355 	EXP 	polygon_2: size = array([0.2 , 0.35])
+294.8355 	EXP 	polygon_2: ori = 0.0
+294.8355 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+294.8355 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+294.8355 	EXP 	polygon_2: lineWidth = 1.0
+294.8355 	EXP 	polygon_2: autoDraw = True
+295.3354 	EXP 	polygon_2: autoDraw = False
+296.8208 	EXP 	New trial (rep=0, index=6): OrderedDict([('colourtest', 'Blue'), ('corresp', ['space'])])
+296.8348 	EXP 	polygon_2: autoDraw = False
+296.8348 	EXP 	polygon_2: opacity = 1.0
+296.8348 	EXP 	polygon_2: pos = array([0., 0.])
+296.8348 	EXP 	polygon_2: size = array([0.2 , 0.35])
+296.8348 	EXP 	polygon_2: ori = 0.0
+296.8348 	EXP 	polygon_2: fillColor = 'Blue (named)'
+296.8348 	EXP 	polygon_2: lineColor = 'Blue (named)'
+296.8348 	EXP 	polygon_2: lineWidth = 1.0
+296.8348 	EXP 	polygon_2: autoDraw = True
+297.3347 	EXP 	polygon_2: autoDraw = False
+297.4685 	DATA 	Keypress: return
+298.8040 	EXP 	New trial (rep=0, index=7): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+298.8082 	EXP 	New trial (rep=0, index=8): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+298.8117 	EXP 	New trial (rep=0, index=9): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+298.8148 	EXP 	New trial (rep=0, index=10): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+298.8180 	EXP 	New trial (rep=0, index=11): OrderedDict([('colourtest', 'Cyan'), ('corresp', ['space'])])
+298.8212 	EXP 	New trial (rep=0, index=12): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+298.8244 	EXP 	New trial (rep=0, index=13): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+298.8276 	EXP 	New trial (rep=0, index=14): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+298.8300 	EXP 	New trial (rep=0, index=15): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+298.8322 	EXP 	New trial (rep=0, index=16): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+298.8341 	EXP 	New trial (rep=0, index=17): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+298.8360 	EXP 	New trial (rep=0, index=18): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+298.8377 	EXP 	New trial (rep=0, index=19): OrderedDict([('colourtest', 'Blue'), ('corresp', ['space'])])
+298.8391 	EXP 	New trial (rep=0, index=20): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+298.8405 	EXP 	New trial (rep=0, index=21): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+298.8418 	EXP 	New trial (rep=0, index=22): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+298.8432 	EXP 	New trial (rep=0, index=23): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+298.8443 	EXP 	New trial (rep=0, index=24): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+298.8455 	EXP 	New trial (rep=0, index=25): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+298.8466 	EXP 	New trial (rep=0, index=26): OrderedDict([('colourtest', 'Red'), ('corresp', ['space'])])
+298.8477 	EXP 	New trial (rep=0, index=27): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+298.8488 	EXP 	New trial (rep=0, index=28): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+298.8498 	EXP 	New trial (rep=0, index=29): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+298.8508 	EXP 	New trial (rep=0, index=30): OrderedDict([('colourtest', 'White'), ('corresp', None)])
+298.8517 	EXP 	New trial (rep=0, index=31): OrderedDict([('colourtest', 'Green'), ('corresp', ['space'])])
+298.8527 	EXP 	New trial (rep=0, index=32): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+298.8537 	EXP 	New trial (rep=0, index=33): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+298.8545 	EXP 	New trial (rep=0, index=34): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Blue (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Blue (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Red (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Red (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Green (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Green (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Blue (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Blue (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Blue (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Blue (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Red (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Red (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Red (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Red (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Green (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Green (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'White (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'White (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Green (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Green (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Red (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Red (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Blue (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Blue (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	polygon_2: opacity = 1.0
+298.8956 	EXP 	polygon_2: pos = array([0., 0.])
+298.8956 	EXP 	polygon_2: size = array([0.2 , 0.35])
+298.8956 	EXP 	polygon_2: ori = 0.0
+298.8956 	EXP 	polygon_2: fillColor = 'Green (named)'
+298.8956 	EXP 	polygon_2: lineColor = 'Green (named)'
+298.8956 	EXP 	polygon_2: lineWidth = 1.0
+298.8956 	EXP 	polygon_2: autoDraw = True
+298.8956 	EXP 	polygon_2: autoDraw = False
+298.8956 	EXP 	text_2: pos = array([0.5, 0. ])
+298.8956 	EXP 	image_5: image = './completed_changuitos/montage_ohahd_179.75_153.55.jpg'
+298.8956 	EXP 	text_2: autoDraw = True
+298.8956 	EXP 	image_5: autoDraw = True
+300.2842 	DATA 	Keypress: left
+300.2888 	EXP 	New trial (rep=0, index=7): OrderedDict([('inmediato', 0), ('consciente', 1), ('inconsciente', 0), ('nback_slice', '19:50')])
+300.3303 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+300.3306 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+300.3474 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+300.3477 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+300.3479 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_eedsv_88.95_102.19.jpg'), ('correcta', 'right')])
+300.4269 	EXP 	text_2: autoDraw = False
+300.4269 	EXP 	image_5: autoDraw = False
+300.4269 	EXP 	hola: pos = array([0.5, 0. ])
+300.4269 	EXP 	hola: text = 'Recordatorios: \n- Elegi el producto MÁS CARO.\n- Solo podes responder cuando aparezca la pregunta.\n- A veces te puede tocar hacer el juego de los colores (presioná "enter" cuando aparezca el mismo color que se mostró dos posiciones antes)\n\n- Barra espaciadora para continuar -'
+300.4269 	EXP 	image_2: image = './completed_changuitos/montage_eedsv_88.95_102.19.jpg'
+300.4269 	EXP 	tiempo_para_pensar: pos = array([0.5, 0. ])
+300.4269 	EXP 	cual_es_la_mas_barata: pos = array([0.5, 0. ])
+300.4269 	EXP 	image_4: image = './completed_changuitos/montage_eedsv_88.95_102.19.jpg'
+300.4269 	EXP 	hola: autoDraw = True
+301.9335 	DATA 	Keypress: space
+301.9498 	EXP 	hola: autoDraw = False
+301.9498 	EXP 	image_2: autoDraw = True
+309.9637 	EXP 	image_2: autoDraw = False
+309.9637 	EXP 	tiempo_para_pensar: autoDraw = True
+323.9752 	EXP 	tiempo_para_pensar: autoDraw = False
+323.9752 	EXP 	cual_es_la_mas_barata: autoDraw = True
+323.9752 	EXP 	image_4: autoDraw = True
+325.2922 	DATA 	Keypress: left
+325.3359 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+325.3362 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+325.3365 	EXP 	New trial (rep=0, index=8): OrderedDict([('inmediato', 0), ('consciente', 0), ('inconsciente', 1), ('nback_slice', '20:50')])
+325.3526 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+325.3529 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+325.3671 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+325.3673 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+325.3822 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+325.3824 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+325.3826 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_mmgft_65.29_57.69.jpg'), ('correcta', 'left')])
+325.4246 	EXP 	hola: autoDraw = False
+325.4246 	EXP 	image_2: autoDraw = False
+325.4246 	EXP 	tiempo_para_pensar: autoDraw = False
+325.4246 	EXP 	cual_es_la_mas_barata: autoDraw = False
+325.4246 	EXP 	image_4: autoDraw = False
+325.4246 	EXP 	holi: pos = array([0.5, 0. ])
+325.4246 	EXP 	image_3: image = './completed_changuitos/montage_mmgft_65.29_57.69.jpg'
+325.4246 	EXP 	holi: autoDraw = True
+327.8914 	DATA 	Keypress: space
+327.9076 	EXP 	holi: autoDraw = False
+327.9076 	EXP 	image_3: autoDraw = True
+335.9404 	EXP 	Imported ColourTest2.xlsx as conditions, 30 conditions, 2 params
+335.9408 	EXP 	Created sequence: sequential, trialTypes=30, nReps=1, seed=None
+335.9412 	EXP 	New trial (rep=0, index=0): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+335.9503 	EXP 	image_3: autoDraw = False
+335.9503 	EXP 	holi: autoDraw = False
+335.9503 	EXP 	image_3: autoDraw = False
+335.9503 	EXP 	polygon_2: opacity = 1.0
+335.9503 	EXP 	polygon_2: pos = array([0., 0.])
+335.9503 	EXP 	polygon_2: size = array([0.2 , 0.35])
+335.9503 	EXP 	polygon_2: ori = 0.0
+335.9503 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+335.9503 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+335.9503 	EXP 	polygon_2: lineWidth = 1.0
+335.9503 	EXP 	polygon_2: autoDraw = True
+336.4547 	EXP 	polygon_2: autoDraw = False
+337.9382 	EXP 	New trial (rep=0, index=1): OrderedDict([('colourtest', 'Blue'), ('corresp', ['space'])])
+337.9538 	EXP 	polygon_2: autoDraw = False
+337.9538 	EXP 	polygon_2: opacity = 1.0
+337.9538 	EXP 	polygon_2: pos = array([0., 0.])
+337.9538 	EXP 	polygon_2: size = array([0.2 , 0.35])
+337.9538 	EXP 	polygon_2: ori = 0.0
+337.9538 	EXP 	polygon_2: fillColor = 'Blue (named)'
+337.9538 	EXP 	polygon_2: lineColor = 'Blue (named)'
+337.9538 	EXP 	polygon_2: lineWidth = 1.0
+337.9538 	EXP 	polygon_2: autoDraw = True
+338.4540 	EXP 	polygon_2: autoDraw = False
+339.9394 	EXP 	New trial (rep=0, index=2): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+339.9534 	EXP 	polygon_2: autoDraw = False
+339.9534 	EXP 	polygon_2: opacity = 1.0
+339.9534 	EXP 	polygon_2: pos = array([0., 0.])
+339.9534 	EXP 	polygon_2: size = array([0.2 , 0.35])
+339.9534 	EXP 	polygon_2: ori = 0.0
+339.9534 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+339.9534 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+339.9534 	EXP 	polygon_2: lineWidth = 1.0
+339.9534 	EXP 	polygon_2: autoDraw = True
+340.4533 	EXP 	polygon_2: autoDraw = False
+341.9387 	EXP 	New trial (rep=0, index=3): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+341.9528 	EXP 	polygon_2: autoDraw = False
+341.9528 	EXP 	polygon_2: opacity = 1.0
+341.9528 	EXP 	polygon_2: pos = array([0., 0.])
+341.9528 	EXP 	polygon_2: size = array([0.2 , 0.35])
+341.9528 	EXP 	polygon_2: ori = 0.0
+341.9528 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+341.9528 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+341.9528 	EXP 	polygon_2: lineWidth = 1.0
+341.9528 	EXP 	polygon_2: autoDraw = True
+342.4526 	EXP 	polygon_2: autoDraw = False
+343.9380 	EXP 	New trial (rep=0, index=4): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+343.9521 	EXP 	polygon_2: autoDraw = False
+343.9521 	EXP 	polygon_2: opacity = 1.0
+343.9521 	EXP 	polygon_2: pos = array([0., 0.])
+343.9521 	EXP 	polygon_2: size = array([0.2 , 0.35])
+343.9521 	EXP 	polygon_2: ori = 0.0
+343.9521 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+343.9521 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+343.9521 	EXP 	polygon_2: lineWidth = 1.0
+343.9521 	EXP 	polygon_2: autoDraw = True
+344.4519 	EXP 	polygon_2: autoDraw = False
+344.9190 	DATA 	Keypress: return
+345.9383 	EXP 	New trial (rep=0, index=5): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+345.9513 	EXP 	polygon_2: autoDraw = False
+345.9513 	EXP 	polygon_2: opacity = 1.0
+345.9513 	EXP 	polygon_2: pos = array([0., 0.])
+345.9513 	EXP 	polygon_2: size = array([0.2 , 0.35])
+345.9513 	EXP 	polygon_2: ori = 0.0
+345.9513 	EXP 	polygon_2: fillColor = 'Blue (named)'
+345.9513 	EXP 	polygon_2: lineColor = 'Blue (named)'
+345.9513 	EXP 	polygon_2: lineWidth = 1.0
+345.9513 	EXP 	polygon_2: autoDraw = True
+346.4513 	EXP 	polygon_2: autoDraw = False
+347.9366 	EXP 	New trial (rep=0, index=6): OrderedDict([('colourtest', 'Cyan'), ('corresp', ['space'])])
+347.9507 	EXP 	polygon_2: autoDraw = False
+347.9507 	EXP 	polygon_2: opacity = 1.0
+347.9507 	EXP 	polygon_2: pos = array([0., 0.])
+347.9507 	EXP 	polygon_2: size = array([0.2 , 0.35])
+347.9507 	EXP 	polygon_2: ori = 0.0
+347.9507 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+347.9507 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+347.9507 	EXP 	polygon_2: lineWidth = 1.0
+347.9507 	EXP 	polygon_2: autoDraw = True
+348.3344 	DATA 	Keypress: return
+348.4506 	EXP 	polygon_2: autoDraw = False
+349.9197 	EXP 	New trial (rep=0, index=7): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+349.9239 	EXP 	New trial (rep=0, index=8): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+349.9276 	EXP 	New trial (rep=0, index=9): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+349.9318 	EXP 	New trial (rep=0, index=10): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+349.9358 	EXP 	New trial (rep=0, index=11): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+349.9391 	EXP 	New trial (rep=0, index=12): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+349.9423 	EXP 	New trial (rep=0, index=13): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+349.9455 	EXP 	New trial (rep=0, index=14): OrderedDict([('colourtest', 'Blue'), ('corresp', ['space'])])
+349.9485 	EXP 	New trial (rep=0, index=15): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+349.9507 	EXP 	New trial (rep=0, index=16): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+349.9530 	EXP 	New trial (rep=0, index=17): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+349.9548 	EXP 	New trial (rep=0, index=18): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+349.9565 	EXP 	New trial (rep=0, index=19): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+349.9582 	EXP 	New trial (rep=0, index=20): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+349.9595 	EXP 	New trial (rep=0, index=21): OrderedDict([('colourtest', 'Red'), ('corresp', ['space'])])
+349.9609 	EXP 	New trial (rep=0, index=22): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+349.9623 	EXP 	New trial (rep=0, index=23): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+349.9635 	EXP 	New trial (rep=0, index=24): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+349.9647 	EXP 	New trial (rep=0, index=25): OrderedDict([('colourtest', 'White'), ('corresp', None)])
+349.9659 	EXP 	New trial (rep=0, index=26): OrderedDict([('colourtest', 'Green'), ('corresp', ['space'])])
+349.9670 	EXP 	New trial (rep=0, index=27): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+349.9681 	EXP 	New trial (rep=0, index=28): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+349.9691 	EXP 	New trial (rep=0, index=29): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Red (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Red (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Green (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Green (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Blue (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Blue (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Blue (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Blue (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Red (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Red (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Red (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Red (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Green (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Green (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'White (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'White (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Green (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Green (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Red (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Red (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Blue (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Blue (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	polygon_2: opacity = 1.0
+350.0119 	EXP 	polygon_2: pos = array([0., 0.])
+350.0119 	EXP 	polygon_2: size = array([0.2 , 0.35])
+350.0119 	EXP 	polygon_2: ori = 0.0
+350.0119 	EXP 	polygon_2: fillColor = 'Green (named)'
+350.0119 	EXP 	polygon_2: lineColor = 'Green (named)'
+350.0119 	EXP 	polygon_2: lineWidth = 1.0
+350.0119 	EXP 	polygon_2: autoDraw = True
+350.0119 	EXP 	polygon_2: autoDraw = False
+350.0119 	EXP 	text_2: pos = array([0.5, 0. ])
+350.0119 	EXP 	image_5: image = './completed_changuitos/montage_mmgft_65.29_57.69.jpg'
+350.0119 	EXP 	text_2: autoDraw = True
+350.0119 	EXP 	image_5: autoDraw = True
+351.7000 	DATA 	Keypress: left
+351.7046 	EXP 	New trial (rep=0, index=9): OrderedDict([('inmediato', 0), ('consciente', 1), ('inconsciente', 0), ('nback_slice', '25:50')])
+351.7428 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+351.7431 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+351.7609 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+351.7612 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+351.7614 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_lzdmo_32.1_36.39.jpg'), ('correcta', 'right')])
+351.8399 	EXP 	text_2: autoDraw = False
+351.8399 	EXP 	image_5: autoDraw = False
+351.8399 	EXP 	hola: pos = array([0.5, 0. ])
+351.8399 	EXP 	hola: text = 'Recordatorios: \n- Elegi el producto MÁS CARO.\n- Solo podes responder cuando aparezca la pregunta.\n- A veces te puede tocar hacer el juego de los colores (presioná "enter" cuando aparezca el mismo color que se mostró dos posiciones antes)\n\n- Barra espaciadora para continuar -'
+351.8399 	EXP 	image_2: image = './completed_changuitos/montage_lzdmo_32.1_36.39.jpg'
+351.8399 	EXP 	tiempo_para_pensar: pos = array([0.5, 0. ])
+351.8399 	EXP 	cual_es_la_mas_barata: pos = array([0.5, 0. ])
+351.8399 	EXP 	image_4: image = './completed_changuitos/montage_lzdmo_32.1_36.39.jpg'
+351.8399 	EXP 	hola: autoDraw = True
+355.1986 	DATA 	Keypress: space
+355.2150 	EXP 	hola: autoDraw = False
+355.2150 	EXP 	image_2: autoDraw = True
+363.2289 	EXP 	image_2: autoDraw = False
+363.2289 	EXP 	tiempo_para_pensar: autoDraw = True
+377.2408 	EXP 	tiempo_para_pensar: autoDraw = False
+377.2408 	EXP 	cual_es_la_mas_barata: autoDraw = True
+377.2408 	EXP 	image_4: autoDraw = True
+378.8072 	DATA 	Keypress: left
+378.8476 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+378.8479 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+378.8482 	EXP 	New trial (rep=0, index=10): OrderedDict([('inmediato', 0), ('consciente', 0), ('inconsciente', 1), ('nback_slice', '28:50')])
+378.8649 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+378.8652 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+378.8797 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+378.8800 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+378.8943 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+378.8945 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+378.8947 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_grmmq_95.25_109.15.jpg'), ('correcta', 'right')])
+378.9363 	EXP 	hola: autoDraw = False
+378.9363 	EXP 	image_2: autoDraw = False
+378.9363 	EXP 	tiempo_para_pensar: autoDraw = False
+378.9363 	EXP 	cual_es_la_mas_barata: autoDraw = False
+378.9363 	EXP 	image_4: autoDraw = False
+378.9363 	EXP 	holi: pos = array([0.5, 0. ])
+378.9363 	EXP 	image_3: image = './completed_changuitos/montage_grmmq_95.25_109.15.jpg'
+378.9363 	EXP 	holi: autoDraw = True
+382.4059 	DATA 	Keypress: space
+382.4223 	EXP 	holi: autoDraw = False
+382.4223 	EXP 	image_3: autoDraw = True
+390.4513 	EXP 	Imported ColourTest2.xlsx as conditions, 22 conditions, 2 params
+390.4517 	EXP 	Created sequence: sequential, trialTypes=22, nReps=1, seed=None
+390.4521 	EXP 	New trial (rep=0, index=0): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+390.4610 	EXP 	image_3: autoDraw = False
+390.4610 	EXP 	holi: autoDraw = False
+390.4610 	EXP 	image_3: autoDraw = False
+390.4610 	EXP 	polygon_2: opacity = 1.0
+390.4610 	EXP 	polygon_2: pos = array([0., 0.])
+390.4610 	EXP 	polygon_2: size = array([0.2 , 0.35])
+390.4610 	EXP 	polygon_2: ori = 0.0
+390.4610 	EXP 	polygon_2: fillColor = 'Red (named)'
+390.4610 	EXP 	polygon_2: lineColor = 'Red (named)'
+390.4610 	EXP 	polygon_2: lineWidth = 1.0
+390.4610 	EXP 	polygon_2: autoDraw = True
+390.9694 	EXP 	polygon_2: autoDraw = False
+392.4539 	EXP 	New trial (rep=0, index=1): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+392.4689 	EXP 	polygon_2: autoDraw = False
+392.4689 	EXP 	polygon_2: opacity = 1.0
+392.4689 	EXP 	polygon_2: pos = array([0., 0.])
+392.4689 	EXP 	polygon_2: size = array([0.2 , 0.35])
+392.4689 	EXP 	polygon_2: ori = 0.0
+392.4689 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+392.4689 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+392.4689 	EXP 	polygon_2: lineWidth = 1.0
+392.4689 	EXP 	polygon_2: autoDraw = True
+392.9687 	EXP 	polygon_2: autoDraw = False
+394.4523 	EXP 	New trial (rep=0, index=2): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+394.4682 	EXP 	polygon_2: autoDraw = False
+394.4682 	EXP 	polygon_2: opacity = 1.0
+394.4682 	EXP 	polygon_2: pos = array([0., 0.])
+394.4682 	EXP 	polygon_2: size = array([0.2 , 0.35])
+394.4682 	EXP 	polygon_2: ori = 0.0
+394.4682 	EXP 	polygon_2: fillColor = 'Green (named)'
+394.4682 	EXP 	polygon_2: lineColor = 'Green (named)'
+394.4682 	EXP 	polygon_2: lineWidth = 1.0
+394.4682 	EXP 	polygon_2: autoDraw = True
+394.9676 	EXP 	polygon_2: autoDraw = False
+396.4686 	EXP 	New trial (rep=0, index=3): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+396.4840 	EXP 	polygon_2: autoDraw = False
+396.4840 	EXP 	polygon_2: opacity = 1.0
+396.4840 	EXP 	polygon_2: pos = array([0., 0.])
+396.4840 	EXP 	polygon_2: size = array([0.2 , 0.35])
+396.4840 	EXP 	polygon_2: ori = 0.0
+396.4840 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+396.4840 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+396.4840 	EXP 	polygon_2: lineWidth = 1.0
+396.4840 	EXP 	polygon_2: autoDraw = True
+396.9840 	EXP 	polygon_2: autoDraw = False
+398.4672 	EXP 	New trial (rep=0, index=4): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+398.4831 	EXP 	polygon_2: autoDraw = False
+398.4831 	EXP 	polygon_2: opacity = 1.0
+398.4831 	EXP 	polygon_2: pos = array([0., 0.])
+398.4831 	EXP 	polygon_2: size = array([0.2 , 0.35])
+398.4831 	EXP 	polygon_2: ori = 0.0
+398.4831 	EXP 	polygon_2: fillColor = 'Blue (named)'
+398.4831 	EXP 	polygon_2: lineColor = 'Blue (named)'
+398.4831 	EXP 	polygon_2: lineWidth = 1.0
+398.4831 	EXP 	polygon_2: autoDraw = True
+398.9833 	EXP 	polygon_2: autoDraw = False
+400.4666 	EXP 	New trial (rep=0, index=5): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+400.4824 	EXP 	polygon_2: autoDraw = False
+400.4824 	EXP 	polygon_2: opacity = 1.0
+400.4824 	EXP 	polygon_2: pos = array([0., 0.])
+400.4824 	EXP 	polygon_2: size = array([0.2 , 0.35])
+400.4824 	EXP 	polygon_2: ori = 0.0
+400.4824 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+400.4824 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+400.4824 	EXP 	polygon_2: lineWidth = 1.0
+400.4824 	EXP 	polygon_2: autoDraw = True
+400.9827 	EXP 	polygon_2: autoDraw = False
+402.4680 	EXP 	New trial (rep=0, index=6): OrderedDict([('colourtest', 'Blue'), ('corresp', ['space'])])
+402.4821 	EXP 	polygon_2: autoDraw = False
+402.4821 	EXP 	polygon_2: opacity = 1.0
+402.4821 	EXP 	polygon_2: pos = array([0., 0.])
+402.4821 	EXP 	polygon_2: size = array([0.2 , 0.35])
+402.4821 	EXP 	polygon_2: ori = 0.0
+402.4821 	EXP 	polygon_2: fillColor = 'Blue (named)'
+402.4821 	EXP 	polygon_2: lineColor = 'Blue (named)'
+402.4821 	EXP 	polygon_2: lineWidth = 1.0
+402.4821 	EXP 	polygon_2: autoDraw = True
+402.9820 	EXP 	polygon_2: autoDraw = False
+403.2665 	DATA 	Keypress: return
+404.4345 	EXP 	New trial (rep=0, index=7): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+404.4388 	EXP 	New trial (rep=0, index=8): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+404.4424 	EXP 	New trial (rep=0, index=9): OrderedDict([('colourtest', 'Yellow'), ('corresp', ['space'])])
+404.4460 	EXP 	New trial (rep=0, index=10): OrderedDict([('colourtest', 'Magenta'), ('corresp', None)])
+404.4493 	EXP 	New trial (rep=0, index=11): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+404.4525 	EXP 	New trial (rep=0, index=12): OrderedDict([('colourtest', 'Magenta'), ('corresp', ['space'])])
+404.4558 	EXP 	New trial (rep=0, index=13): OrderedDict([('colourtest', 'Red'), ('corresp', ['space'])])
+404.4586 	EXP 	New trial (rep=0, index=14): OrderedDict([('colourtest', 'Yellow'), ('corresp', None)])
+404.4608 	EXP 	New trial (rep=0, index=15): OrderedDict([('colourtest', 'Cyan'), ('corresp', None)])
+404.4630 	EXP 	New trial (rep=0, index=16): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+404.4647 	EXP 	New trial (rep=0, index=17): OrderedDict([('colourtest', 'White'), ('corresp', None)])
+404.4666 	EXP 	New trial (rep=0, index=18): OrderedDict([('colourtest', 'Green'), ('corresp', ['space'])])
+404.4687 	EXP 	New trial (rep=0, index=19): OrderedDict([('colourtest', 'Red'), ('corresp', None)])
+404.4700 	EXP 	New trial (rep=0, index=20): OrderedDict([('colourtest', 'Blue'), ('corresp', None)])
+404.4714 	EXP 	New trial (rep=0, index=21): OrderedDict([('colourtest', 'Green'), ('corresp', None)])
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Red (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Red (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Magenta (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Magenta (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Red (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Red (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Yellow (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Yellow (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Cyan (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Cyan (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Green (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Green (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'White (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'White (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Green (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Green (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Red (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Red (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Blue (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Blue (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	polygon_2: opacity = 1.0
+404.5162 	EXP 	polygon_2: pos = array([0., 0.])
+404.5162 	EXP 	polygon_2: size = array([0.2 , 0.35])
+404.5162 	EXP 	polygon_2: ori = 0.0
+404.5162 	EXP 	polygon_2: fillColor = 'Green (named)'
+404.5162 	EXP 	polygon_2: lineColor = 'Green (named)'
+404.5162 	EXP 	polygon_2: lineWidth = 1.0
+404.5162 	EXP 	polygon_2: autoDraw = True
+404.5162 	EXP 	polygon_2: autoDraw = False
+404.5162 	EXP 	text_2: pos = array([0.5, 0. ])
+404.5162 	EXP 	image_5: image = './completed_changuitos/montage_grmmq_95.25_109.15.jpg'
+404.5162 	EXP 	text_2: autoDraw = True
+404.5162 	EXP 	image_5: autoDraw = True
+407.2477 	DATA 	Keypress: right
+407.2523 	EXP 	New trial (rep=0, index=11): OrderedDict([('inmediato', 0), ('consciente', 1), ('inconsciente', 0), ('nback_slice', '10:50')])
+407.2843 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+407.2846 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+407.3030 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+407.3033 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+407.3036 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_sayhj_81.85_96.3.jpg'), ('correcta', 'right')])
+407.3888 	EXP 	text_2: autoDraw = False
+407.3888 	EXP 	image_5: autoDraw = False
+407.3888 	EXP 	hola: pos = array([0.5, 0. ])
+407.3888 	EXP 	hola: text = 'Recordatorios: \n- Elegi el producto MÁS CARO.\n- Solo podes responder cuando aparezca la pregunta.\n- A veces te puede tocar hacer el juego de los colores (presioná "enter" cuando aparezca el mismo color que se mostró dos posiciones antes)\n\n- Barra espaciadora para continuar -'
+407.3888 	EXP 	image_2: image = './completed_changuitos/montage_sayhj_81.85_96.3.jpg'
+407.3888 	EXP 	tiempo_para_pensar: pos = array([0.5, 0. ])
+407.3888 	EXP 	cual_es_la_mas_barata: pos = array([0.5, 0. ])
+407.3888 	EXP 	image_4: image = './completed_changuitos/montage_sayhj_81.85_96.3.jpg'
+407.3888 	EXP 	hola: autoDraw = True
+409.3979 	DATA 	Keypress: space
+409.4298 	EXP 	hola: autoDraw = False
+409.4298 	EXP 	image_2: autoDraw = True
+417.4437 	EXP 	image_2: autoDraw = False
+417.4437 	EXP 	tiempo_para_pensar: autoDraw = True
+431.4555 	EXP 	tiempo_para_pensar: autoDraw = False
+431.4555 	EXP 	cual_es_la_mas_barata: autoDraw = True
+431.4555 	EXP 	image_4: autoDraw = True
+432.5233 	DATA 	Keypress: right
+432.5685 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+432.5688 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+432.5691 	EXP 	New trial (rep=0, index=12): OrderedDict([('inmediato', 1), ('consciente', 0), ('inconsciente', 0), ('nback_slice', '30:50')])
+432.5855 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+432.5857 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+432.5859 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_bngmd_447.25_390.0.jpg'), ('correcta', 'left')])
+432.6693 	EXP 	hola: autoDraw = False
+432.6693 	EXP 	image_2: autoDraw = False
+432.6693 	EXP 	tiempo_para_pensar: autoDraw = False
+432.6693 	EXP 	cual_es_la_mas_barata: autoDraw = False
+432.6693 	EXP 	image_4: autoDraw = False
+432.6693 	EXP 	text: pos = array([0.5, 0. ])
+432.6693 	EXP 	image: image = './completed_changuitos/montage_bngmd_447.25_390.0.jpg'
+432.6693 	EXP 	pregunta_cual_es_el_mas_barato: pos = array([0.5, 0. ])
+432.6693 	EXP 	short_stim1: image = './completed_changuitos/montage_bngmd_447.25_390.0.jpg'
+433.1549 	EXP 	text: autoDraw = True
+434.1386 	DATA 	Keypress: space
+434.1546 	EXP 	text: autoDraw = False
+434.1546 	EXP 	image: autoDraw = True
+442.1686 	EXP 	image: autoDraw = False
+442.1686 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = True
+442.1686 	EXP 	short_stim1: autoDraw = True
+443.0513 	DATA 	Keypress: right
+443.0729 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+443.0733 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+443.0923 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+443.0927 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+443.0931 	EXP 	New trial (rep=0, index=13): OrderedDict([('inmediato', 1), ('consciente', 0), ('inconsciente', 0), ('nback_slice', '32:50')])
+443.1119 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+443.1123 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+443.1126 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_yyalg_243.95_212.29.jpg'), ('correcta', 'left')])
+443.2024 	EXP 	text: autoDraw = False
+443.2024 	EXP 	image: autoDraw = False
+443.2024 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = False
+443.2024 	EXP 	short_stim1: autoDraw = False
+443.2024 	EXP 	text: pos = array([0.5, 0. ])
+443.2024 	EXP 	image: image = './completed_changuitos/montage_yyalg_243.95_212.29.jpg'
+443.2024 	EXP 	pregunta_cual_es_el_mas_barato: pos = array([0.5, 0. ])
+443.2024 	EXP 	short_stim1: image = './completed_changuitos/montage_yyalg_243.95_212.29.jpg'
+443.6847 	EXP 	text: autoDraw = True
+444.5353 	DATA 	Keypress: space
+444.5510 	EXP 	text: autoDraw = False
+444.5510 	EXP 	image: autoDraw = True
+452.5646 	EXP 	image: autoDraw = False
+452.5646 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = True
+452.5646 	EXP 	short_stim1: autoDraw = True
+453.2145 	DATA 	Keypress: right
+453.2367 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+453.2371 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+453.2558 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+453.2562 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+453.2566 	EXP 	New trial (rep=0, index=14): OrderedDict([('inmediato', 1), ('consciente', 0), ('inconsciente', 0), ('nback_slice', '34:50')])
+453.2752 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+453.2756 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+453.2758 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_dxeto_199.9_233.25.jpg'), ('correcta', 'right')])
+453.3618 	EXP 	text: autoDraw = False
+453.3618 	EXP 	image: autoDraw = False
+453.3618 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = False
+453.3618 	EXP 	short_stim1: autoDraw = False
+453.3618 	EXP 	text: pos = array([0.5, 0. ])
+453.3618 	EXP 	image: image = './completed_changuitos/montage_dxeto_199.9_233.25.jpg'
+453.3618 	EXP 	pregunta_cual_es_el_mas_barato: pos = array([0.5, 0. ])
+453.3618 	EXP 	short_stim1: image = './completed_changuitos/montage_dxeto_199.9_233.25.jpg'
+453.8479 	EXP 	text: autoDraw = True
+454.6974 	DATA 	Keypress: space
+454.7140 	EXP 	text: autoDraw = False
+454.7140 	EXP 	image: autoDraw = True
+462.7282 	EXP 	image: autoDraw = False
+462.7282 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = True
+462.7282 	EXP 	short_stim1: autoDraw = True
+464.5280 	DATA 	Keypress: right
+464.5730 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+464.5733 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+464.5901 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+464.5903 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+464.5906 	EXP 	New trial (rep=0, index=15): OrderedDict([('inmediato', 1), ('consciente', 0), ('inconsciente', 0), ('nback_slice', '30:50')])
+464.6047 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+464.6049 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+464.6050 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_unedg_83.45_72.75.jpg'), ('correcta', 'left')])
+464.6794 	EXP 	text: autoDraw = False
+464.6794 	EXP 	image: autoDraw = False
+464.6794 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = False
+464.6794 	EXP 	short_stim1: autoDraw = False
+464.6794 	EXP 	text: pos = array([0.5, 0. ])
+464.6794 	EXP 	image: image = './completed_changuitos/montage_unedg_83.45_72.75.jpg'
+464.6794 	EXP 	pregunta_cual_es_el_mas_barato: pos = array([0.5, 0. ])
+464.6794 	EXP 	short_stim1: image = './completed_changuitos/montage_unedg_83.45_72.75.jpg'
+465.1607 	EXP 	text: autoDraw = True
+466.4939 	DATA 	Keypress: space
+466.5102 	EXP 	text: autoDraw = False
+466.5102 	EXP 	image: autoDraw = True
+474.5242 	EXP 	image: autoDraw = False
+474.5242 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = True
+474.5242 	EXP 	short_stim1: autoDraw = True
+475.3923 	DATA 	Keypress: right
+475.4497 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+475.4501 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+475.4667 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+475.4669 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+475.4671 	EXP 	New trial (rep=0, index=16): OrderedDict([('inmediato', 1), ('consciente', 0), ('inconsciente', 0), ('nback_slice', '32:50')])
+475.4813 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+475.4816 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+475.4817 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_jhcfg_228.69_199.9.jpg'), ('correcta', 'left')])
+475.5590 	EXP 	text: autoDraw = False
+475.5590 	EXP 	image: autoDraw = False
+475.5590 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = False
+475.5590 	EXP 	short_stim1: autoDraw = False
+475.5590 	EXP 	text: pos = array([0.5, 0. ])
+475.5590 	EXP 	image: image = './completed_changuitos/montage_jhcfg_228.69_199.9.jpg'
+475.5590 	EXP 	pregunta_cual_es_el_mas_barato: pos = array([0.5, 0. ])
+475.5590 	EXP 	short_stim1: image = './completed_changuitos/montage_jhcfg_228.69_199.9.jpg'
+476.0403 	EXP 	text: autoDraw = True
+477.1736 	DATA 	Keypress: space
+477.1899 	EXP 	text: autoDraw = False
+477.1899 	EXP 	image: autoDraw = True
+485.2038 	EXP 	image: autoDraw = False
+485.2038 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = True
+485.2038 	EXP 	short_stim1: autoDraw = True
+486.4371 	DATA 	Keypress: right
+486.4830 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+486.4833 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+486.5014 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+486.5017 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+486.5020 	EXP 	New trial (rep=0, index=17): OrderedDict([('inmediato', 1), ('consciente', 0), ('inconsciente', 0), ('nback_slice', '34:50')])
+486.5174 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+486.5176 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+486.5178 	EXP 	New trial (rep=0, index=0): OrderedDict([('imagen', './completed_changuitos/montage_gxpfc_101.65_90.95.jpg'), ('correcta', 'left')])
+486.5984 	EXP 	text: autoDraw = False
+486.5984 	EXP 	image: autoDraw = False
+486.5984 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = False
+486.5984 	EXP 	short_stim1: autoDraw = False
+486.5984 	EXP 	text: pos = array([0.5, 0. ])
+486.5984 	EXP 	image: image = './completed_changuitos/montage_gxpfc_101.65_90.95.jpg'
+486.5984 	EXP 	pregunta_cual_es_el_mas_barato: pos = array([0.5, 0. ])
+486.5984 	EXP 	short_stim1: image = './completed_changuitos/montage_gxpfc_101.65_90.95.jpg'
+487.0865 	EXP 	text: autoDraw = True
+489.3362 	DATA 	Keypress: space
+489.3524 	EXP 	text: autoDraw = False
+489.3524 	EXP 	image: autoDraw = True
+497.3664 	EXP 	image: autoDraw = False
+497.3664 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = True
+497.3664 	EXP 	short_stim1: autoDraw = True
+499.1828 	DATA 	Keypress: left
+499.2282 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+499.2286 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+499.2462 	EXP 	Imported conditions.csv as conditions, 1 conditions, 2 params
+499.2464 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+499.2551 	EXP 	text: autoDraw = False
+499.2551 	EXP 	image: autoDraw = False
+499.2551 	EXP 	pregunta_cual_es_el_mas_barato: autoDraw = False
+499.2551 	EXP 	short_stim1: autoDraw = False
+499.2551 	EXP 	gracias: pos = array([0.5, 0. ])
+499.2551 	EXP 	pregunta1: pos = array([0.5, 0. ])
+499.2551 	EXP 	gracias: autoDraw = True
+500.3324 	DATA 	Keypress: space
+500.3487 	EXP 	gracias: autoDraw = False
+500.3487 	EXP 	pregunta1: autoDraw = True
+514.9107 	DATA 	Keypress: num_1
+518.4095 	DATA 	Keypress: 1
+518.4255 	EXP 	gracias: autoDraw = False
+518.4255 	EXP 	pregunta1: autoDraw = False
+518.4255 	EXP 	pregunta3_3: pos = array([ 0.5, -0.6])
+518.4255 	EXP 	pregunta3_3: autoDraw = True
+518.4255 	EXP 	productoCon3RANGOSabc_3: autoDraw = True
+532.9712 	DATA 	Keypress: c
+532.9874 	EXP 	pregunta3_3: autoDraw = False
+532.9874 	EXP 	productoCon3RANGOSabc_3: autoDraw = False
+532.9874 	EXP 	text_3: pos = array([0.5, 0. ])
+532.9874 	EXP 	text_3: autoDraw = True
+542.2181 	DATA 	Keypress: 7
+542.2343 	EXP 	text_3: autoDraw = False
+542.3266 	EXP 	window1: mouseVisible = True
