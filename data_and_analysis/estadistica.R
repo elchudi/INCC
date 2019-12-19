@@ -12,7 +12,7 @@ new_data$expert_weighted <- factor(new_data$expert_weighted)
 new_data$expert_self_assestment <- factor(new_data$expert_self_assestment)
 new_data$correct_binary <- factor(new_data$correct_binary)
 new_data$correct_binary <- factor(new_data$correct_binary)
-m_prereg <- glmer(correct_binary ~ treatment * expert_inmediato + order +  (1|user), data=new_data, family=binomial) # sin factor 'orden'
+mprereg <- glmer(correct_binary ~ treatment * expert_inmediato + order +  (1|user), data=new_data, family=binomial) # sin factor 'orden'
 m_prereg_sin_order <- glmer(correct_binary ~ treatment * expert_inmediato +  (1|user), data=new_data, family=binomial) # sin factor 'orden'
-summary(m_prereg)
+summary(mprereg)
 summary(m_prereg_sin_order)
